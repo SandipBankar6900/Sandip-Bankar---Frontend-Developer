@@ -26,6 +26,5 @@ Now you can visit the webpage at [http://localhost:3000](http://localhost:3000)
 
 - [Visit deployed url]()
 
-<!-- # Quick Preview -->
 
-<!-- [Preview video](https://drive.google.com/file/d/1TZicGV80rrSTOSsq3QqFNPlc9mu0hacu/view?usp=drive_link) -->
+
