@@ -24,7 +24,7 @@ Now you can visit the webpage at [http://localhost:3000](http://localhost:3000)
 
 ## Deployed on Vercel
 
-- [Visit deployed url]()
+- [Visit deployed url](https://saviour-beta.vercel.app/)
 
 
 
