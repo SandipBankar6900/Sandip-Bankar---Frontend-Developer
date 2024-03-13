@@ -12,7 +12,7 @@ function RoadMap() {
   };
 
   return (
-    <div className="bg-black w-full h-fit flex flex-col items-center text-white ">
+    <div className="bg-black w-full h-fit flex flex-col items-center text-white overflow-x-hidden ">
       <div className="bg-roadmap-bg bg-no-repeat w-full flex flex-col items-center p-6 md:p-10">
         <div className="flex flex-col items-center w-full gap-7">
           <h3 className="text-samurai-red font-shojumaru text-5xl md:text-8xl mb-10 md:mb-10">

@@ -24,8 +24,5 @@ Now you can visit the webpage at [http://localhost:3000](http://localhost:3000)
 
 ## Deployed on Vercel
 
-- [Visit deployed url]()
+- [Visit deployed url](https://saviour-beta.vercel.app/)
 
-<!-- # Quick Preview -->
-
-<!-- [Preview video](https://drive.google.com/file/d/1TZicGV80rrSTOSsq3QqFNPlc9mu0hacu/view?usp=drive_link) -->

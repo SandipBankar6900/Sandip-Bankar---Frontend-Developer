@@ -9,7 +9,7 @@ import TopSection from "../components/TopSection";
 
 export default function Home() {
   return (
-    <main className="relative">
+    <main className="relative" >
       <Navbar />
       <TopSection />
       <IntroSection />
